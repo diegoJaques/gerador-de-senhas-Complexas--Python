@@ -1,0 +1,7 @@
+setup.py
+gerador_de_senhas/__init__.py
+gerador_de_senhas/file1_name.py
+gerador_de_senhas.egg-info/PKG-INFO
+gerador_de_senhas.egg-info/SOURCES.txt
+gerador_de_senhas.egg-info/dependency_links.txt
+gerador_de_senhas.egg-info/top_level.txt

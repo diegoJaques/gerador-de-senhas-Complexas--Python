@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: gerador-de-senhas
+Version: 0.0.0
+Summary:  Pacote de gerador de senhas
+Home-page: https://github.com/diegoJaques/gerador-de-senhas-Complexas--Python
+Author: Diego_Jaques
+Author-email: diegojaques2016@gmail.com
+License: UNKNOWN
+Description: Gerador de Senhas
+        
+        Pacote de gerador de senhas complexas para sua seguranÃ§a
+        escolha a quantidade de caractres que queira em sua senha
+        
+        installation
+        
+        use the package manafer pip to install gerador-de-senhas-Complexas--Python
+        
+        Usage
+        
+        from gerador_de_senhas impoty file1_name
+        
+        Author
+        
+        Diego Jaques
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
